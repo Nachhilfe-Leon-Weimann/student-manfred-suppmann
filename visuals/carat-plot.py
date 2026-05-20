@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
-import numpy as np
 
-from data.models import Cut, Diamond
+# import numpy as np
+# from data.models import Cut, Diamond
 from data.reader import read
 
 # fig, ax = plt.subplots()  # Create a figure containing a single Axes.
